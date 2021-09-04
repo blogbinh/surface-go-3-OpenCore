@@ -22,6 +22,6 @@ OpenCore configuration for support macOS on Surface Go 3
 
 **: <span style="color:red">_**SPECIALLY NOTED**_</span>: Because macOS doesn't support **eMMC** so we **can't install** macOS on this configuration. For those who want to hackintosh on Surface Go 3, please avoid this low-end configuration (When I write to here, my friend has ask that, why the heck to install macOS on Surface, I immediately take the MacBook that he is holding, reboot it, hold the Option key on boot, boot into Boot Camp partition, and... no more because you will know what happen next although I don't say anything more :)))) (I want to say this again, that the number of user who install Windows is larger than the number of user who install macOS on Surface:)
 
-EFI được làm dựa trên file EFI của @kingo132 và @badstorm . Rất cảm ơn!
+EFI được làm dựa trên file EFI của [@kingo132](https://github.com/kingo132) và [@badstorm](https://github.com/badstorm) . Rất cảm ơn!
 
-EFI was made base from @kingo132 and @badstorm EFI file. Thank you so much!
+EFI was made base from [@kingo132](https://github.com/kingo132) and [@badstorm](https://github.com/badstorm) EFI file. Thank you so much!

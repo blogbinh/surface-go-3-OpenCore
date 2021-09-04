@@ -1,4 +1,4 @@
-# Surface Go 3 Hackintosh - macOS - OpenCore
+# Surface Go 3 - macOS - OpenCore
 ---
 Câu hình OpenCore để hỗ trợ macOS trên Surface Go 3
 

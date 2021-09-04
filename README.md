@@ -1,1 +1,2 @@
-# surface-go-3-hackintosh
+# Surface Go 3 Hackintosh
+

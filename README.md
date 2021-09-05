@@ -6,13 +6,20 @@ OpenCore configuration for support macOS on Surface Go 3
 
 ### Thông số của Surface Go 3:*
 ### Surface Go 3 Specs:*
-|                           |  Cấu hình thấp hơn (Lower Specs)     |   Cấu hình cao hơn (Higer Specs)     |
-|---------------------------|--------------------------------------|---------------------------------------
-|         **CPU**           | Intel® Pentium® Gold 6500Y Dual-core |   Intel® Core™ i3-10100Y Dual-core   |
-|         **iGPU**          |     Intel® UHD Graphics 615          |                  <<                  |
-|         **RAM**           |           4/8GB LPDDR3               |               8GB LPDDR3             |
-|  **Ổ lưu trữ / Storage**  |      64GB eMMC**, 128GB SSD          |               128GB SSD              |
-|         **Audio**         |              ALC(298)???             |                  <<                  |
+|                               |  Cấu hình thấp hơn (Lower Specs)     |   Cấu hình cao hơn (Higer Specs)             |
+|-------------------------------|--------------------------------------|----------------------------------------------|
+|         **CPU**               | Intel® Pentium® Gold 6500Y Dual-core |   Intel® Core™ i3-10100Y Dual-core           |
+|         **iGPU**              |     Intel® UHD Graphics 615          |                  <<                          |
+|         **RAM**               |           4/8GB LPDDR3               |               8GB LPDDR3                     |
+|  **Ổ lưu trữ / Storage**      |      64GB eMMC**, 128GB SSD          |               128GB SSD                      |
+|         **Audio**             |              ALC(298)???             |                  <<                          |
+| **Wifi + Bluetooth**          |   Intel® Wifi6 AX2??, Bluetooth 5.0  |                  <<                          |
+|**Khe đọc thẻ nhớ/Card Reader**| Realtek PCI-E Card Reader, 152D:1237 |                  <<                          |
+|**Cam Trước&Sau / Front&Rear Cam**|Intel(R) AVStream Camera 2500, ISP Interface, 8086:591c, 8 MPix/5 MPix|     <<    | 
+| **Type Cover & Trackpad**     |Microsoft Type Cover, 045E:096F|                                      <<             |
+|**Màn hình / Display**      |10.50 inch 3:2, 1920 x 1280 pixel 220 PPI, Hỗ trợ cảm ứng 10 điểm / 10-Point Capative|<<|
+|      **Pin/Battery**          |26.81Wh 7.66v 3500mAh|            <<                                                 |
+
 
 *: Thông số không phải là thông số chính thức và có thể sẽ thay đổi khi ra mắt
 

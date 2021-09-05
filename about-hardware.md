@@ -6,9 +6,9 @@ Thôi, không nói vòng vo nữa, nhức đầu lắm he (theo cách nói của
 
 ## Cấu hình
 
-Surface Go 3 sẽ có 2 cấu hình, cấu hình thứ nhất được xuất hiện trên phiên bản rẻ hơn là cấu hình sử dụng bộ xử lý [Intel Pentium Gold 6500Y](https://ark.intel.com/content/www/vn/vi/ark/products/213357/intel-pentium-gold-6500y-processor-4m-cache-up-to-3-40-ghz.html) và cấu hình thứ hai được xuât hiện trên phiên bản đắt hơn là cấu hinh sử dụng bộ xử lý [Intel i3-10100Y](https://ark.intel.com/content/www/vn/vi/ark/products/213356/intel-core-i310100y-processor-4m-cache-up-to-3-90-ghz.html)
+Surface Go 3 sẽ có 2 cấu hình, cấu hình thứ nhất được xuất hiện trên phiên bản rẻ hơn là cấu hình sử dụng bộ xử lý [Intel Pentium Gold 6500Y](https://ark.intel.com/content/www/vn/vi/ark/products/213357/intel-pentium-gold-6500y-processor-4m-cache-up-to-3-40-ghz.html) và cấu hình thứ hai được xuât hiện trên phiên bản đắt hơn là cấu hinh sử dụng bộ xử lý [Intel i3-10100Y](https://ark.intel.com/content/www/vn/vi/ark/products/213356/intel-core-i310100y-processor-4m-cache-up-to-3-90-ghz.html). Phiên bản câu hình thấp hơn sẽ có 4/8GB RAM, 64GB eMMC/128GB SSD. Cao hơn thì chỉ có bản 8GB RAM, 128GB SSD. Chưa rõ Microsoft có ra phiên bản 256GB hay không, nhung nếu có thì rất tuyệt (Đặc biệt dành cho ai muốn dual boot Windows và macOS).
 
 ### CPU
 
-Cả hai bộ xử lý đều là bộ xử lý đến từ Intel, và chúng đều có một điểm chung 
+Cả hai bộ xử lý đều là bộ xử lý đến từ Intel, và chúng đều có một điểm chung là... đều là những con chip thuộc dòng siêu tiết kiệm điện (Y),.. đều yếu hết. Chúng còn có một điêm chung là đều thuộc cùng một kiến trúc là Amber Lake Y (Surface Go 2 cũng dùng con chip thuộc thế hệ này, Go 1 thì là Kaby Lake Y). Về hiệu năng thì yếu, Pentium Gold 6500Y trên phiên bản thâp hơn thì mọi người có thể hình dung nó như là con m3-8100Y (Con chip được dùng trên dòng cao cấp hơn của Surface Go 2). Về bản chất thì hai con chip này giống nhau, chỉ khác ở chỗ nó nơi mức TDP-up của dòng m3-8100Y lên tới 8W, còn Pentium Gold 6500Y chỉ có TDP-up lên tới 7W mà thôi. TDP-down của chúng cũng thế, Pentium Gold thì kém hơn 1W so với m3-8100Y. i3-10100 thì cũng có mức TDP, TDP-up/down ngang Pentium Gold 6500Y (Có lẽ giúp cho chiếc máy tiêt kiệm pin hơn chăng?)
 

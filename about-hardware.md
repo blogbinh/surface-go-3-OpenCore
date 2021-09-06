@@ -14,4 +14,11 @@ Cả hai bộ xử lý đều là bộ xử lý đến từ Intel, và chúng đ
 
 ### iGPU
 
-Lại là một điểm chung khác của hai con chip đó, chúng đều có GPU thích hợp là Intel UHD 615 (Surface Go 2 cũng dùng iGPU này, Go 1 thì dùng **HD 615**) (Thằng Microsoft đúng là ác ôn, nâng chip nhưng không nâng cấp iGPU, và dĩ nhiên, đâu phải cái này là đổ lỗi cho Microsoft hoàn toàn được?). Như đã nói ở trên thì tuy Pentium Gold 6500Y với m3-8100Y gần giống nhau như thế nhưng nó còn khác cái ID Thiết Bị (device-id) nó mới ghê chứ (ơ tưởng thằng Intel lười chỉ giảm chắc mức TDP-up/down và thế là ra con chip mới!?)
+Lại là một điểm chung khác của hai con chip đó, chúng đều có GPU thích hợp là Intel UHD 615 (Surface Go 2 cũng dùng iGPU này, Go 1 thì dùng **HD 615**) (Thằng Microsoft đúng là ác ôn, nâng chip nhưng không nâng cấp iGPU, và dĩ nhiên, đâu phải cái này là đổ lỗi cho Microsoft hoàn toàn được?).
+
+Dưới đây là danh sách các ID Thiết Bị (device-id) của các dòng Intel từng thích hợp lên Surface Go (SG) 1-3:
+
+|      **CPU**    | Pentium Gold 4415Y (SG 1 ) | Pentium Gold 4425Y (SG 2) | Core m3-8100Y (SG 2) | Pentium Gold 6500Y (SG 3) | Core i3-10100Y (SG 3) |
+|-----------------|----------------------------|---------------------------|----------------------|---------------------------|-----------------------|
+|     **iGPU**    |           HD 615           |          UHD 615          |        UHD 615       |           UHD 615         |         UHD 615       |  
+|  **device-id**  |           0x591E           |         0x591E            |        0x591C        |          0x591C           |         0x591C        |

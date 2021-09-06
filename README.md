@@ -29,6 +29,20 @@ OpenCore configuration for support macOS on Surface Go 3
 
 **: <span style="color:red">_**SPECIALLY NOTED**_</span>: Because macOS doesn't support **eMMC** so we **can't install** macOS on this configuration. For those who want to hackintosh on Surface Go 3, please avoid this low-end configuration (When I write to here, my friend has ask that, why the heck to install macOS on Surface, I immediately take the MacBook that he is holding, reboot it, hold the Option key on boot, boot into Boot Camp partition, and... no more because you will know what happen next even I don't say anything more :)))) (I want to say this again, that the number of user who install Windows is larger than the number of user who install macOS on Surface:)
 
+### Cách tắt Sercure Boot:
+### How to turn off the Sercure Boot:
+1. Tắt máy và chờ tầm mười giây / Shut down the machine and wait about 10 seconds
+2. Nhấn giữ phím Tăng âm lượng và - cùng một lúc - vừa ấn phím Nguồn và thả nó ra / Press and hold the Volume-up button and - at the same time - press and release the Power button
+3. Khi logo của Microsoft xuất hiện, giữ phím Tăng âm lượng cho đến khi xuất hiện màn UEFI / As the Microsoft logo appears on your screen, continue to hold the Volume-up button until the UEFI screen appears
+4. Chọn vào phần "Security" / Choose the "Security" page
+![IMG_1575](https://user-images.githubusercontent.com/54268369/132239366-172856c6-8739-4ebb-b874-2f20048b151d.jpg)
+5. Chọn vào nút "Enabled" ở mục "Secure Boot" và lựa chọn "Disabled" / Click the "Enable" button in "Sercure Boot" configuration and disable it
+6. Khi khởi động lại mọi người sẽ thấy có vạch đỏ ở trên màn hình với hình ổ khoá bị mở ra / When reboot, you can see the red stripe on the screen with the "Unlock" icon
+ 
+![IMG_1581-2](https://user-images.githubusercontent.com/54268369/132240600-1910f7c7-688a-4f44-8db8-dcb85f981139.jpg)
+
+Hình ảnh của dòng Surface Pro 6. Do Surface Go 1-3 đều dùng UEFI đến từ bên thứ ba nên giao diện nhìn hơi củ chuối so với Pro 6 và các dòng còn lại:))) / The Surface Pro 6 shown here. Because Surface Go 1-3 use the third-party UEFI so the UI looks weird as the Pro 6 and other Surfaces:)))
+
 EFI được làm bao gồm một số thành phần (dựa) trên file EFI của [@kingo132](https://github.com/kingo132) và [@badstorm](https://github.com/badstorm) . Rất cảm ơn!
 
 EFI was made with some components (base) from [@kingo132](https://github.com/kingo132) and [@badstorm](https://github.com/badstorm) EFI file. Thank you so much!

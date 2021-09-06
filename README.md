@@ -29,6 +29,9 @@ OpenCore configuration for support macOS on Surface Go 3
 
 **: <span style="color:red">_**SPECIALLY NOTED**_</span>: Because macOS doesn't support **eMMC** so we **can't install** macOS on this configuration. For those who want to hackintosh on Surface Go 3, please avoid this low-end configuration (When I write to here, my friend has ask that, why the heck to install macOS on Surface, I immediately take the MacBook that he is holding, reboot it, hold the Option key on boot, boot into Boot Camp partition, and... no more because you will know what happen next even I don't say anything more :)))) (I want to say this again, that the number of user who install Windows is larger than the number of user who install macOS on Surface:)
 
+Do Surface Go 1-3 không khác nhau nhiều lắm nên có thể lấy file EFI dùng cho Surface Go cũ hơn (dĩ nhiên có thể sẽ cần mod chút xíu)
+Since Surface Go 1-3 are not so much different so you can take the EFI to use with older gens of Surface Go (although it required some modification)
+
 ### Cách tắt Sercure Boot:
 ### How to turn off the Sercure Boot:
 1. Tắt máy và chờ tầm mười giây / Shut down the machine and wait about 10 seconds

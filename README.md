@@ -31,7 +31,7 @@ OpenCore configuration for support macOS on Surface Go 3
 
 Do Surface Go 1-3 không khác nhau nhiều lắm nên có thể lấy file EFI dùng cho Surface Go cũ hơn (dĩ nhiên có thể sẽ cần mod chút xíu)
 
-Since Surface Go 1-3 are not so much different so you can take the EFI to use with older gens of Surface Go (although it required some modification)
+Since Surface Go 1-3 aren't so much different so it is possible to use the EFI with older gens of Surface Go (although it required some modification)
 
 ### Cách tắt Sercure Boot:
 ### How to turn off the Sercure Boot:

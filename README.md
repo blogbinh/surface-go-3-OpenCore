@@ -47,6 +47,8 @@ Since Surface Go 1-3 aren't so much different so it is possible to use the EFI w
 
 Hình ảnh của dòng Surface Pro 6. Do Surface Go 1-3 đều dùng UEFI đến từ bên thứ ba nên giao diện nhìn hơi củ chuối so với Pro 6 và các dòng còn lại:))) / The Surface Pro 6 shown here. Because Surface Go 1-3 use the third-party UEFI so the UI looks weird as the Pro 6 and other Surfaces:)))
 
+P/s: Nhắc mới nhớ, Surface Pro 6 do dùng chip tên mã là Kaby Lake R 
+
 EFI được làm bao gồm một số thành phần (dựa) trên file EFI của [@kingo132](https://github.com/kingo132) và [@badstorm](https://github.com/badstorm) . Rất cảm ơn!
 
 EFI was made with some components (base) from [@kingo132](https://github.com/kingo132) and [@badstorm](https://github.com/badstorm) EFI file. Thank you so much!

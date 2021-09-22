@@ -1,5 +1,9 @@
 # Surface Go 3 - macOS - OpenCore
 
+![IMG_1683](https://user-images.githubusercontent.com/54268369/134372672-d387afc7-a9dc-4fbc-9c8a-cc1dc13f16d0.PNG)
+* Đừng care tới con Surface Pro 8, mà hãy chú ý tới phiên bản mini nằm ở bên trái
+* Do not care about the Surface Pro 8, let's pay attention to the mini on the left
+
 Câu hình OpenCore để hỗ trợ macOS trên Surface Go 3
 
 OpenCore configuration for support macOS on Surface Go 3

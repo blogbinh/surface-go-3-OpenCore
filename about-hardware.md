@@ -6,7 +6,7 @@ Thôi, không nói vòng vo nữa, nhức đầu lắm he (theo cách nói của
 
 ## Cấu hình
 
-Surface Go 3 sẽ có 2 cấu hình, cấu hình thứ nhất được xuất hiện trên phiên bản rẻ hơn là cấu hình sử dụng bộ xử lý [Intel Pentium Gold 6500Y](https://ark.intel.com/content/www/vn/vi/ark/products/213357/intel-pentium-gold-6500y-processor-4m-cache-up-to-3-40-ghz.html) và cấu hình thứ hai được xuât hiện trên phiên bản đắt hơn là cấu hinh sử dụng bộ xử lý [Intel i3-10100Y](https://ark.intel.com/content/www/vn/vi/ark/products/213356/intel-core-i310100y-processor-4m-cache-up-to-3-90-ghz.html). Phiên bản câu hình thấp hơn sẽ có 4/8GB RAM, 64GB eMMC/128GB SSD. Cao hơn thì chỉ có bản 8GB RAM, 128GB SSD. Chưa rõ Microsoft có ra phiên bản 256GB hay không, nhung nếu có thì rất tuyệt (Đặc biệt dành cho ai muốn dual boot Windows và macOS).
+Surface Go 3 sẽ có 2 cấu hình, cấu hình thứ nhất được xuất hiện trên phiên bản rẻ hơn là cấu hình sử dụng bộ xử lý [Intel Pentium Gold 6500Y](https://ark.intel.com/content/www/vn/vi/ark/products/213357/intel-pentium-gold-6500y-processor-4m-cache-up-to-3-40-ghz.html) và cấu hình thứ hai được xuât hiện trên phiên bản đắt hơn là cấu hinh sử dụng bộ xử lý [Intel i3-10100Y](https://ark.intel.com/content/www/vn/vi/ark/products/213356/intel-core-i310100y-processor-4m-cache-up-to-3-90-ghz.html). Phiên bản câu hình thấp hơn sẽ có 4/8GB RAM, 64GB eMMC/128GB SSD. Cao hơn thì chỉ có bản 8GB RAM, 128GB SSD. Chưa rõ Microsoft có ra phiên bản 256GB hay không, nhung nếu có thì rất tuyệt (Đặc biệt dành cho ai muốn dual boot Windows và macOS) (Update: Tin xấu là thằng Mic nó đ ra bản 256GB thật, đ hiểu vì răng cứ vong vo chắc bản 64 và 128, đ hiểu nổi thăng Mic, theo cách nói của bạn Cẩm Ly)
 
 ### CPU
 

@@ -29,4 +29,4 @@ LPDDR3, dòng RAM tiêt kiệm điện. Không có gì để nói. Đều có c�
 
 ### Ổ cứng
 
-Do quen mồm chứ Surface Go 3 không có dùng HDD. Mà nói SSD thì chỉ có bản 128GB mới là SSD. Còn cái bản 64GB thì là eMMC. Như đã nói 
+Do quen mồm chứ Surface Go 3 không có dùng HDD. Mà nói SSD thì chỉ có bản 128GB mới là SSD. Còn cái bản 64GB thì là eMMC. Như đã nói ở phần README.md thì 

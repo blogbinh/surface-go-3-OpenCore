@@ -10,7 +10,7 @@ Surface Go 3 sẽ có 2 cấu hình, cấu hình thứ nhất được xuất hi
 
 ### CPU
 
-Cả hai bộ xử lý đều là bộ xử lý đến từ Intel, và chúng đều có một điểm chung là... đều là những con chip thuộc dòng siêu tiết kiệm điện (Y),.. đều yếu hết. Chúng còn có một điêm chung là đều thuộc cùng một kiến trúc là Amber Lake Y (Surface Go 2 cũng dùng con chip thuộc thế hệ này, Go 1 thì là Kaby Lake Y). Về hiệu năng thì yếu, Pentium Gold 6500Y trên phiên bản thâp hơn thì mọi người có thể hình dung nó như là con m3-8100Y (Con chip được dùng trên dòng cao cấp hơn của Surface Go 2). Về bản chất thì hai con chip này giống nhau, chỉ khác ở chỗ nó nơi mức TDP-up của dòng m3-8100Y lên tới 8W, còn Pentium Gold 6500Y chỉ có TDP-up lên tới 7W mà thôi. TDP-down của chúng cũng thế, Pentium Gold thì kém hơn 1W so với m3-8100Y. i3-10100 thì cũng có mức TDP, TDP-up/down ngang Pentium Gold 6500Y (Có lẽ giúp cho chiếc máy tiêt kiệm pin hơn chăng?)
+Cả hai bộ xử lý đều là bộ xử lý đến từ Intel, và chúng đều có một điểm chung là... đều là những con chip thuộc dòng siêu tiết kiệm điện (Y)... đều yếu hết. Chúng còn có một điêm chung là đều thuộc cùng một kiến trúc là Amber Lake Y (Surface Go 2 cũng dùng con chip thuộc thế hệ này, Go 1 thì là Kaby Lake Y). Về hiệu năng thì yếu, Pentium Gold 6500Y trên phiên bản thâp hơn thì mọi người có thể hình dung nó như là con m3-8100Y (Con chip được dùng trên dòng cao cấp hơn của Surface Go 2). Về bản chất thì hai con chip này giống nhau, chỉ khác ở chỗ nó nơi mức TDP-up của dòng m3-8100Y lên tới 8W, còn Pentium Gold 6500Y chỉ có TDP-up lên tới 7W mà thôi. TDP-down của chúng cũng thế, Pentium Gold thì kém hơn 1W so với m3-8100Y. i3-10100 thì cũng có mức TDP, TDP-up/down ngang Pentium Gold 6500Y (Có lẽ giúp cho chiếc máy tiêt kiệm pin hơn chăng?)
 
 ### iGPU
 
@@ -29,4 +29,4 @@ LPDDR3, dòng RAM tiêt kiệm điện. Không có gì để nói. Đều có c�
 
 ### Ổ cứng
 
-Do quen mồm chứ Surface Go 3 không có dùng HDD. Mà nói SSD thì chỉ có bản 128GB mới là SSD. Còn cái bản 64GB thì là eMMC. Như đã nói ở phần README.md thì 
+Do quen mồm chứ Surface Go 3 không có dùng HDD. Mà nói SSD thì chỉ có bản 128GB mới là SSD. Còn cái bản 64GB thì là eMMC. Như đã nói ở phần README.md thì không thể cài **macOS**
